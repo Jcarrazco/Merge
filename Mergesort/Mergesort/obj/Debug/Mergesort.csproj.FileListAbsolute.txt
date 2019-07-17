@@ -1,0 +1,6 @@
+C:\Users\CETI\source\repos\Mergesort\Mergesort\bin\Debug\Mergesort.exe.config
+C:\Users\CETI\source\repos\Mergesort\Mergesort\bin\Debug\Mergesort.exe
+C:\Users\CETI\source\repos\Mergesort\Mergesort\bin\Debug\Mergesort.pdb
+C:\Users\CETI\source\repos\Mergesort\Mergesort\obj\Debug\Mergesort.csproj.CoreCompileInputs.cache
+C:\Users\CETI\source\repos\Mergesort\Mergesort\obj\Debug\Mergesort.exe
+C:\Users\CETI\source\repos\Mergesort\Mergesort\obj\Debug\Mergesort.pdb
